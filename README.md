@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JatinDevDG
-- 👀 I’m interested in Sytems,grphql and go
+- 👀 I’m interested in Distributed Systems,Operating Systems, Computer Architecture and graphql.
 - 🌱 I’m currently learning go and graphql
-- 💞️ I’m looking to collaborate on graphql
+- 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me jatinsaini543@gmail.com
 
 <!---
